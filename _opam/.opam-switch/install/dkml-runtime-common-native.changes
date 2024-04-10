@@ -1,0 +1,17 @@
+opam-version: "2.0"
+added: [
+  "lib\\dkml-runtime-common-native" {"D"}
+  "lib\\dkml-runtime-common-native\\META" {"F:S237T1712323791.28"}
+  "lib\\dkml-runtime-common-native\\macos" {"D"}
+  "lib\\dkml-runtime-common-native\\macos\\brewbundle.sh"
+    {"F:S2910T1712323791.34"}
+  "lib\\dkml-runtime-common-native\\template.dkmlroot"
+    {"F:S25T1712323791.31"}
+  "lib\\dkml-runtime-common-native\\unix" {"D"}
+  "lib\\dkml-runtime-common-native\\unix\\_common_tool.sh"
+    {"F:S26816T1712323791.36"}
+  "lib\\dkml-runtime-common-native\\unix\\_within_dev.sh"
+    {"F:S6693T1712323791.38"}
+  "lib\\dkml-runtime-common-native\\unix\\crossplatform-functions.sh"
+    {"F:S162078T1712323791.39"}
+]

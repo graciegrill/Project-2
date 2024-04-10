@@ -1,0 +1,21 @@
+opam-version: "2.0"
+added: [
+  "doc\\chrome-trace" {"D"}
+  "doc\\chrome-trace\\CHANGES.md" {"F:S157785T1712325667.3"}
+  "doc\\chrome-trace\\LICENSE.md" {"F:S1111T1712325667.31"}
+  "doc\\chrome-trace\\README.md" {"F:S6006T1712325667.31"}
+  "lib\\chrome-trace" {"D"}
+  "lib\\chrome-trace\\META" {"F:S252T1712325667.18"}
+  "lib\\chrome-trace\\chrome_trace.cma" {"F:S61787T1712325667.18"}
+  "lib\\chrome-trace\\chrome_trace.cmi" {"F:S4850T1712325667.18"}
+  "lib\\chrome-trace\\chrome_trace.cmt" {"F:S111377T1712325667.19"}
+  "lib\\chrome-trace\\chrome_trace.cmti" {"F:S23455T1712325667.19"}
+  "lib\\chrome-trace\\chrome_trace.cmx" {"F:S4052T1712325667.19"}
+  "lib\\chrome-trace\\chrome_trace.cmxa" {"F:S482T1712325667.19"}
+  "lib\\chrome-trace\\chrome_trace.cmxs" {"F:S37376T1712325667.2"}
+  "lib\\chrome-trace\\chrome_trace.lib" {"F:S34742T1712325667.19"}
+  "lib\\chrome-trace\\chrome_trace.ml" {"F:S9552T1712325667.19"}
+  "lib\\chrome-trace\\chrome_trace.mli" {"F:S2514T1712325667.19"}
+  "lib\\chrome-trace\\dune-package" {"F:S930T1712325667.19"}
+  "lib\\chrome-trace\\opam" {"F:S846T1712325667.2"}
+]

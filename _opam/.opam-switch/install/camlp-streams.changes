@@ -1,0 +1,27 @@
+opam-version: "2.0"
+added: [
+  "doc\\camlp-streams" {"D"}
+  "doc\\camlp-streams\\CHANGES.md" {"F:S430T1712325570.32"}
+  "doc\\camlp-streams\\LICENSE" {"F:S27214T1712325570.33"}
+  "doc\\camlp-streams\\README.md" {"F:S1121T1712325570.33"}
+  "lib\\camlp-streams" {"D"}
+  "lib\\camlp-streams\\META" {"F:S178T1712325570.19"}
+  "lib\\camlp-streams\\camlp_streams.cma" {"F:S8651T1712325570.2"}
+  "lib\\camlp-streams\\camlp_streams.cmxa" {"F:S489T1712325570.2"}
+  "lib\\camlp-streams\\camlp_streams.cmxs" {"F:S13312T1712325570.21"}
+  "lib\\camlp-streams\\camlp_streams.lib" {"F:S4124T1712325570.2"}
+  "lib\\camlp-streams\\dune-package" {"F:S976T1712325570.2"}
+  "lib\\camlp-streams\\genlex.cmi" {"F:S939T1712325570.2"}
+  "lib\\camlp-streams\\genlex.cmt" {"F:S3556T1712325570.2"}
+  "lib\\camlp-streams\\genlex.cmti" {"F:S5015T1712325570.2"}
+  "lib\\camlp-streams\\genlex.cmx" {"F:S355T1712325570.2"}
+  "lib\\camlp-streams\\genlex.ml" {"F:S14T1712325570.21"}
+  "lib\\camlp-streams\\genlex.mli" {"F:S48T1712325570.21"}
+  "lib\\camlp-streams\\opam" {"F:S1719T1712325570.21"}
+  "lib\\camlp-streams\\stream.cmi" {"F:S2992T1712325570.21"}
+  "lib\\camlp-streams\\stream.cmt" {"F:S7840T1712325570.21"}
+  "lib\\camlp-streams\\stream.cmti" {"F:S12905T1712325570.21"}
+  "lib\\camlp-streams\\stream.cmx" {"F:S1861T1712325570.21"}
+  "lib\\camlp-streams\\stream.ml" {"F:S14T1712325570.21"}
+  "lib\\camlp-streams\\stream.mli" {"F:S48T1712325570.21"}
+]

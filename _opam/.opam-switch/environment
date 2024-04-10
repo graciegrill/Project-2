@@ -1,0 +1,10 @@
+OPAM_SWITCH_PREFIX	=	C:\\Users\\17176\\OneDrive\\Documents\\Mount2023-2024\\Languages\\Projects\\Project\ 2\\_opam	Prefix\ of\ the\ current\ opam\ switch
+PATH	+=	C:\\Users\\17176\\AppData\\Local\\Programs\\DKMLNA~1\\bin
+PKG_CONFIG_SYSTEM_LIBRARY_PATH	=	@
+PKG_CONFIG_SYSTEM_INCLUDE_PATH	=	@
+PKG_CONFIG_PATH	=	C:\\Users\\17176\\AppData\\Local\\Programs\\DKMLNA~1\\tools\\MSYS2\\clang64\\lib\\pkgconfig
+CAML_LD_LIBRARY_PATH	=	C:/Users/17176/AppData/Local/Programs/DKMLNA~1/lib/ocaml/stublibs;C:/Users/17176/AppData/Local/Programs/DKMLNA~1/lib/ocaml	Updated\ by\ package\ ocaml
+CAML_LD_LIBRARY_PATH	+=	C:\\Users\\17176\\OneDrive\\Documents\\Mount2023-2024\\Languages\\Projects\\Project\ 2\\_opam\\lib/stublibs	Updated\ by\ package\ ocaml
+OCAML_TOPLEVEL_PATH	=	C:\\Users\\17176\\OneDrive\\Documents\\Mount2023-2024\\Languages\\Projects\\Project\ 2\\_opam\\lib\\toplevel	Updated\ by\ package\ ocaml
+MANPATH	=:	C:\\Users\\17176\\OneDrive\\Documents\\Mount2023-2024\\Languages\\Projects\\Project\ 2\\_opam\\man	Current\ opam\ switch\ man\ dir
+PATH	=+=	C:\\Users\\17176\\OneDrive\\Documents\\Mount2023-2024\\Languages\\Projects\\Project\ 2\\_opam\\bin	Binary\ dir\ for\ opam\ switch\ C:\\Users\\17176\\OneDrive\\Documents\\Mount2023-2024\\Languages\\Projects\\Project\ 2

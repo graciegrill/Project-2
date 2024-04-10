@@ -1,0 +1,37 @@
+opam-version: "2.0"
+added: [
+  "doc\\cmdliner" {"D"}
+  "doc\\cmdliner\\CHANGES.md" {"F:S17867T1712325371.68"}
+  "doc\\cmdliner\\LICENSE.md" {"F:S742T1712325371.69"}
+  "doc\\cmdliner\\README.md" {"F:S1633T1712325371.7"}
+  "doc\\cmdliner\\odoc-pages" {"D"}
+  "doc\\cmdliner\\odoc-pages\\cli.mld" {"F:S4524T1712325371.76"}
+  "doc\\cmdliner\\odoc-pages\\examples.mld" {"F:S15296T1712325371.77"}
+  "doc\\cmdliner\\odoc-pages\\index.mld" {"F:S1205T1712325371.75"}
+  "doc\\cmdliner\\odoc-pages\\tool_man.mld" {"F:S3274T1712325371.79"}
+  "doc\\cmdliner\\odoc-pages\\tutorial.mld" {"F:S5909T1712325371.78"}
+  "lib\\cmdliner" {"D"}
+  "lib\\cmdliner\\META" {"F:S226T1712325369.72"}
+  "lib\\cmdliner\\cmdliner.cma" {"F:S737326T1712325369.9"}
+  "lib\\cmdliner\\cmdliner.cmi" {"F:S30035T1712325369.74"}
+  "lib\\cmdliner\\cmdliner.cmti" {"F:S208284T1712325369.77"}
+  "lib\\cmdliner\\cmdliner.cmx" {"F:S17206T1712325370."}
+  "lib\\cmdliner\\cmdliner.cmxa" {"F:S12369T1712325369.97"}
+  "lib\\cmdliner\\cmdliner.cmxs" {"F:S303104T1712325370.2"}
+  "lib\\cmdliner\\cmdliner.lib" {"F:S480436T1712325369.99"}
+  "lib\\cmdliner\\cmdliner.mli" {"F:S49407T1712325369.73"}
+  "lib\\cmdliner\\cmdliner_arg.cmx" {"F:S9495T1712325370.01"}
+  "lib\\cmdliner\\cmdliner_base.cmx" {"F:S7402T1712325370.02"}
+  "lib\\cmdliner\\cmdliner_cline.cmx" {"F:S4816T1712325370.03"}
+  "lib\\cmdliner\\cmdliner_cmd.cmx" {"F:S2182T1712325370.04"}
+  "lib\\cmdliner\\cmdliner_docgen.cmx" {"F:S4168T1712325370.04"}
+  "lib\\cmdliner\\cmdliner_eval.cmx" {"F:S5003T1712325370.05"}
+  "lib\\cmdliner\\cmdliner_exit.cmx" {"F:S176T1712325370.06"}
+  "lib\\cmdliner\\cmdliner_info.cmx" {"F:S14319T1712325370.07"}
+  "lib\\cmdliner\\cmdliner_manpage.cmx" {"F:S7544T1712325370.08"}
+  "lib\\cmdliner\\cmdliner_msg.cmx" {"F:S2813T1712325370.09"}
+  "lib\\cmdliner\\cmdliner_term.cmx" {"F:S1815T1712325370.1"}
+  "lib\\cmdliner\\cmdliner_term_deprecated.cmx" {"F:S3489T1712325370.1"}
+  "lib\\cmdliner\\cmdliner_trie.cmx" {"F:S3311T1712325370.11"}
+  "lib\\cmdliner\\opam" {"F:S1445T1712325369.84"}
+]

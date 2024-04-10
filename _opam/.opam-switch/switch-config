@@ -1,0 +1,31 @@
+opam-version: "2.0"
+synopsis:
+  "C:\\Users\\17176\\OneDrive\\Documents\\Mount2023-2024\\Languages\\Projects\\Project 2"
+repositories: ["diskuv-2.1.0" "default"]
+opam-root: "C:\\Users\\17176\\AppData\\Local\\opam"
+setenv: [
+  [PATH += "C:\\Users\\17176\\AppData\\Local\\Programs\\DKMLNA~1\\bin"]
+  [PKG_CONFIG_SYSTEM_LIBRARY_PATH = ""]
+  [PKG_CONFIG_SYSTEM_INCLUDE_PATH = ""]
+  [
+    PKG_CONFIG_PATH = "C:\\Users\\17176\\AppData\\Local\\Programs\\DKMLNA~1\\tools\\MSYS2\\clang64\\lib\\pkgconfig"
+  ]
+]
+invariant: [
+  "ocaml-system" {= "4.14.0"}
+  "conf-withdkml"
+]
+wrap-build-commands:
+  "C:\\Users\\17176\\AppData\\Local\\Programs\\DKMLNA~1\\bin\\WITH-D~1.EXE"
+wrap-install-commands:
+  "C:\\Users\\17176\\AppData\\Local\\Programs\\DKMLNA~1\\bin\\WITH-D~1.EXE"
+wrap-remove-commands:
+  "C:\\Users\\17176\\AppData\\Local\\Programs\\DKMLNA~1\\bin\\WITH-D~1.EXE"
+paths {
+  
+}
+variables {
+  dkml-abi: "windows_x86_64"
+  user: "user"
+  group: "group"
+}
